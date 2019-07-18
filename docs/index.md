@@ -1,4 +1,4 @@
-# Taller de X
+# Taller de Git
 
 TODO: Aquí debe de ir toda la **Descripción del taller**
 
