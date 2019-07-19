@@ -1,4 +1,4 @@
-# Taller de Git
+# Aprender GIT desde cero
 
 TODO: Aquí debe de ir toda la **Descripción del taller**
 

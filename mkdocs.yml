@@ -1,26 +1,26 @@
 # 1. Información del Taller
-site_name: Taller de X # TODO:
-site_description: La Jaqueria - Taller de X # TODO:
-site_author: Cristóbal Contreras Rubio # TODO:
-site_url: https://crisconru.github.io/ # TODO:
+site_name: Aprender GIT desde cero
+site_description: La Jaqueria - Aprender GIT desde cero
+site_author: La Jaquería
+site_url: https://lajaqueria.org/
 
 # 2. Repositorio
-repo_name: crisconru/plantilla-taller # TODO:
-repo_url: https://github.com/crisconru/plantilla-taller # TODO:
+repo_name: LaJaqueria/aprender-git
+repo_url: https://github.com/LaJaqueria/aprender-git
 edit_uri: ""
 
 # 3. Copyright
-copyright: Copyright &copy; 2019 - 2020 Cristóbal Contreras # TODO:
+copyright: Copyright &copy; 2019 La Jaquería
 
 # 4. RRSS
 extra:
   social:
     - type: github
-      link: https://github.com/LaJaqueria # TODO:
+      link: https://github.com/LaJaqueria
     - type: twitter
-      link: https://twitter.com/lajaqueria # TODO:
+      link: https://twitter.com/lajaqueria
     - type: linkedin
-      link: https://www.linkedin.com/company/lajaqueria/ # TODO:
+      link: https://www.linkedin.com/company/lajaqueria/
 
 # 5. Navegación
 nav:
