@@ -4,7 +4,7 @@ TODO: Aquí debe de ir toda la **Descripción del taller**
 
 Esta es la lista de tareas que tienes que hacer para poner a punto este taller ¡Ánimo!
 
-* [ ] Vete a `mkdocs.yml` y rellena todos los puntos del 1 al 4. **Borra los comentarios TODO: conforme vayas acabando**
+* [X] Vete a `mkdocs.yml` y rellena todos los puntos del 1 al 4. **Borra los comentarios TODO: conforme vayas acabando**
 * [ ] En este fichero, `index.md`, escribe de que va el taller, pon toda la información. **Borra el TODO: cuando acabes**
 * [ ] Guarda una foto chiquitita tuya, típica foto de perfil, en la carpeta `docs/img/`.
 * [ ] Vete a `about.md`, enlaza tu imagen de perfil y rellena tu información personal. **Borra el TODO: cuando acabes**
