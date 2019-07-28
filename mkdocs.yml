@@ -25,13 +25,9 @@ extra:
 # 5. Navegación
 nav:
   # Modelo para empezar: Intro, Info del autor y la instalación
-  - Introducción: index.md # TODO:
-  - Autor / Autores: about.md # TODO:
-  - Instalación:
-    - Instalación: instalacion/instalacion.md # TODO:
-    - Windows: instalacion/windows.md # TODO:
-    - Mac OS: instalacion/macos.md # TODO:
-    - Linux: instalacion/linux.md # TODO:
+  - Introducción: index.md
+  - Autor / Autores: about.md
+  - Instalación: instalacion.md # TODO: falta VSCODE, extensiones y demás
   # Aquí seguirían tus secciones
   # TODO:
   # Por último, comenta estas 4 líneas
