@@ -1,6 +1,6 @@
 # Instalación
 
-## windows
+## Windows
 
 Lo tienes bien explicado en la documentación oficial -> [aquí](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git#_instalación_en_windows).
 
