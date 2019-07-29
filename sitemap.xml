@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://lajaqueria.org/</loc>
+     <lastmod>2019-07-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://lajaqueria.org/about/</loc>
+     <lastmod>2019-07-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://lajaqueria.org/instalacion/</loc>
+     <lastmod>2019-07-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://lajaqueria.org/ayuda/ayuda/</loc>
+     <lastmod>2019-07-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://lajaqueria.org/ayuda/markdown/</loc>
+     <lastmod>2019-07-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://lajaqueria.org/ayuda/material/</loc>
+     <lastmod>2019-07-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
